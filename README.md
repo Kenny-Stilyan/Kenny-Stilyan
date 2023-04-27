@@ -16,14 +16,16 @@
 
 
 <div align="center">
-<h2>📊 GitHub Stats:</h2>
+  <h2>📊 GitHub Stats:</h2>
 </div>
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Stilyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"" />
-<img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Stilyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"" />
+<div align="center">
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenny-Stilyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-<div style="display:flex; justify-content:space-between;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kenny-Stilyan&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kenny-Stilyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<div align="center">
+  <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Kenny-Stilyan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img style="max-width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kenny-Stilyan&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 
